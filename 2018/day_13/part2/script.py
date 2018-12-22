@@ -170,8 +170,6 @@ def simulate(grid, carts):
     ticks = 0
     while True:
 
-        print (ticks, len(carts))
-
         # sort carts from top to bottom left to right
         carts.sort(key=lambda c: (c.y, c.x))
 
