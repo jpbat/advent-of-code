@@ -1,4 +1,4 @@
-# 2018 Advent of Code solutions
+# Advent of Code solutions
 ==========================================
 
 To run a solution, `cd` into its directory and invoke the program:
